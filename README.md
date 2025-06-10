@@ -45,7 +45,6 @@ Aspiring Web Developer | Exploring AI & Data Science | Lifelong Learner
 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhavi-naik-a93b2a2b5/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavivn2020@gmail.com)
 
 ---
 
