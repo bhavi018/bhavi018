@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Bhavi 👋</h1>
+<h1 align="center">Hey there, I'm Bhavi 👋</h1>
 
 <p align="center">
 Aspiring Web Developer | Exploring AI & Data Science | Lifelong Learner  
