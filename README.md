@@ -9,7 +9,6 @@ Aspiring Web Developer | Exploring AI & Data Science | Lifelong Learner
 🚀 About Me
 
 - 👩‍💻 Third year B.E. IT student at Goa College of Engineering  
-- 🌱 Building scalable MERN stack web apps & learning Python for ML  
 - 💡 Curious about AI, tech trends, and building things that matter
 - 💬  Ask me how sketchbook doodles turned into debugging tools.
 
@@ -25,6 +24,7 @@ Aspiring Web Developer | Exploring AI & Data Science | Lifelong Learner
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
