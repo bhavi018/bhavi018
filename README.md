@@ -38,7 +38,7 @@ Aspiring Web Developer | Exploring AI & Data Science | Lifelong Learner
 🏆 Coding Profiles
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/bhavivn2020)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/bhavi018/)
+
 
 ---
 
